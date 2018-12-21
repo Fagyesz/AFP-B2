@@ -1,6 +1,9 @@
 Jelenlegi helyzet:
+Egy számológép létrehozása,
 ------------------
 Vágyálom rendszer:
+
+A végcél egy olyan számológép lenne mely különbözõ funkciók között tud váltakozni normál, tudományos,esetleg mértékegységek közötti átváltás
 ------------------
-Követelménylista:
------------------
+
+
