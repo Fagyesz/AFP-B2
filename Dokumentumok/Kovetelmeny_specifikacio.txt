@@ -1,9 +1,21 @@
 Jelenlegi helyzet:
-Egy számológép létrehozása,
+Egy számológép létrehozása, amelyben egyszerûen ki lehet választani a kért funkciókat.
 ------------------
 Vágyálom rendszer:
 
-A végcél egy olyan számológép lenne mely különbözõ funkciók között tud váltakozni normál, tudományos,esetleg mértékegységek közötti átváltás
+A végcél egy olyan számológép lenne mely különbözõ funkciók között tud váltakozni normál, tudományos,esetleg mértékegységek közötti átváltás.
 ------------------
+Követelménylista:
+
+
+Modul			ID			Név				V.			Kifejtés
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kompatibilitás		K1			Windows kompatibilitás		1.0			Az applikáció futtatásához Windows 7 vagy újabb szükséges.
+
+Számológép típusok	K2			Normál				1.0			Normál típusú számológép, az alap funkciókkal.
+
+Számológép típusok	K3			Tudományos			1.0			Tudományos típusú számológép, esetleg néhány mértékegység vagy számrendszer átváltással.
+
+UI			K4			Windows UI			1.0			Egy könnyen kezelhetõ Windows-os modul, opcionálisan átméretezhetõ.
 
 
