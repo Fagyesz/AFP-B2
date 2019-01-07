@@ -1,0 +1,19 @@
+D:\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.exe.config
+D:\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.exe
+D:\CalculatorPro\CalculatorPro\bin\Debug\CalculatorPro.pdb
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csprojResolveAssemblyReference.cache
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.Form1.resources
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.Properties.Resources.resources
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.csproj.GenerateResource.Cache
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.exe
+D:\CalculatorPro\CalculatorPro\obj\Debug\CalculatorPro.pdb
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\bin\Debug\CalculatorPro.exe.config
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\bin\Debug\CalculatorPro.exe
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\bin\Debug\CalculatorPro.pdb
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.csprojAssemblyReference.cache
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.Form1.resources
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.Properties.Resources.resources
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.csproj.GenerateResource.cache
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.csproj.CoreCompileInputs.cache
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.exe
+D:\Valtiel\Letöltések\Scientific Calculator\C#\CalculatorPro\obj\Debug\CalculatorPro.pdb
